@@ -1,2 +1,2 @@
-# Python-Assignment-1
+# Python-Assignments
 Name - Garv Bansal , sid - 21104085
